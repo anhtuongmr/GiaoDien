@@ -1,0 +1,13 @@
+.language_vi_logo, .language_us_logo {
+    float:none;
+    height:30px;
+    margin:0px 0px 0px 4px;
+    padding:0px 0px 0px 30px;
+}
+
+.language_vi_logo {
+    background:url(../images/language/vi.jpg) 0 center no-repeat
+}
+.language_us_logo {
+    background:url(../images/language/us.jpg) 0 center no-repeat
+}
